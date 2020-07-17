@@ -1,0 +1,92 @@
+a{
+    font-size: 22px;
+    padding: 5px 15px !important;
+    color: black !important;
+}
+.container{
+    margin-bottom: 100px;
+}
+.header {
+    background-color: #F0FFF0;
+}
+.logo{
+    width: 50%;
+}
+.custom-button {
+    border-radius: 30px;
+    font-size: 18px;
+    padding: 5px 12px;
+    background-color: #21B573;
+}
+.left span{
+    color: #21B573;
+}
+.left button{
+    margin-bottom: 40px;
+}
+.headline{
+    font-weight: bolder;
+    font-size: 65px;
+}
+.paragraph{
+    color: gray;
+    font-weight: 400;
+    padding: 20px 0px;
+}
+.cardd{
+    padding: 50px 0px;
+}
+.card-modify{
+    border: none;
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.card:hover{
+    box-shadow: 2px 2px 20px lightgray;
+    background-color: white;
+}
+.footr h6{
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.fotr-img{
+    width: 18%;
+}
+.card-modify-2 {
+    padding: 15px;
+    border: none;
+    box-shadow: 2px 2px 20px lightgrey;
+    border-radius: 20px;
+}
+.oc-title, .testimonial h1{
+    margin: 10px 0px 80px 0px;
+    font-size: 60px;
+    font-weight: bold;
+    color: #413960;
+}
+.testimonial h3{
+    font-weight: 400;
+}
+footer{
+    background-color: #282531;
+    padding: 20px 0px 20px 0px;
+}
+footer h3{
+    margin-left: 15px;
+    margin-top: 60px;
+    color: white;
+}
+.txt{
+    margin-top: 60px;
+}
+footer a, footer h4, .copyright p{
+    color: white !important;
+}
+footer a:hover{
+    text-align: center;
+}
+.copyright p{
+    padding: 150px 0px 20px 0px;
+    font-size: 25px;
+}
