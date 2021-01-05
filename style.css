@@ -1,3 +1,4 @@
+/* Common css */
 a{
     font-size: 22px;
     padding: 5px 15px !important;
@@ -6,6 +7,19 @@ a{
 .container{
     margin-bottom: 100px;
 }
+
+/* used in many section */
+
+.card-modify-2 {
+    padding: 15px;
+    border: none;
+    box-shadow: 2px 2px 20px lightgrey;
+    border-radius: 20px;
+}
+
+
+/* Heder Css */
+
 .header {
     background-color: #F0FFF0;
 }
@@ -33,6 +47,9 @@ a{
     font-weight: 400;
     padding: 20px 0px;
 }
+
+/* topic card section */
+
 .cardd{
     padding: 50px 0px;
 }
@@ -53,21 +70,23 @@ a{
 .fotr-img{
     width: 18%;
 }
-.card-modify-2 {
-    padding: 15px;
-    border: none;
-    box-shadow: 2px 2px 20px lightgrey;
-    border-radius: 20px;
-}
+
+/* Online Course */
+
 .oc-title, .testimonial h1{
     margin: 10px 0px 80px 0px;
     font-size: 60px;
     font-weight: bold;
     color: #413960;
 }
+
+/* Testimonial */
+
 .testimonial h3{
     font-weight: 400;
 }
+
+/* Footer */
 footer{
     background-color: #282531;
     padding: 20px 0px 20px 0px;
